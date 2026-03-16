@@ -75,6 +75,7 @@ Spam Email
 ---
 
 ## Project Structure
+```
 
 Spam-Ham-Email-Detection/                                                                                                                                         
 │                                                                                                                                                                 
@@ -82,7 +83,7 @@ Spam-Ham-Email-Detection/
 ├── spam_ham_email_detection.ipynb                                                                                                                                
 ├── README.md                                                                                                                                                     
 └── requirements.txt                                                                                                                                              
-
+```
 ---
 
 ## Author
